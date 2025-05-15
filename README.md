@@ -18,8 +18,8 @@ v)Package Diagram
 
 vi)Sequence Diagram
 
-# DEVELOPED BY : STEPHEN RAJ Y
-# REGISTER NO : 212223230217
+# DEVELOPED BY : CHARUMATHI A
+# REGISTER NO : 212224230045
 
 # DIAGRAMS:
 ![ActivityDiagram for ATM](https://github.com/user-attachments/assets/a37ba24b-11ce-42f9-8eaa-93be115ca70e)
